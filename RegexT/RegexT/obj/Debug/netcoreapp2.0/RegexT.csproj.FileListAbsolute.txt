@@ -1,0 +1,31 @@
+C:/Users/Denis Panjuta/source/repos/RegexT/RegexT/bin/Debug/netcoreapp2.0/RegexT.deps.json
+C:/Users/Denis Panjuta/source/repos/RegexT/RegexT/bin/Debug/netcoreapp2.0/RegexT.runtimeconfig.json
+C:/Users/Denis Panjuta/source/repos/RegexT/RegexT/bin/Debug/netcoreapp2.0/RegexT.runtimeconfig.dev.json
+C:/Users/Denis Panjuta/source/repos/RegexT/RegexT/bin/Debug/netcoreapp2.0/RegexT.dll
+C:/Users/Denis Panjuta/source/repos/RegexT/RegexT/bin/Debug/netcoreapp2.0/RegexT.pdb
+C:/Users/Denis Panjuta/source/repos/RegexT/RegexT/obj/Debug/netcoreapp2.0/RegexT.csprojResolveAssemblyReference.cache
+C:/Users/Denis Panjuta/source/repos/RegexT/RegexT/obj/Debug/netcoreapp2.0/RegexT.csproj.CoreCompileInputs.cache
+C:/Users/Denis Panjuta/source/repos/RegexT/RegexT/obj/Debug/netcoreapp2.0/RegexT.AssemblyInfoInputs.cache
+C:/Users/Denis Panjuta/source/repos/RegexT/RegexT/obj/Debug/netcoreapp2.0/RegexT.AssemblyInfo.cs
+C:/Users/Denis Panjuta/source/repos/RegexT/RegexT/obj/Debug/netcoreapp2.0/RegexT.dll
+C:/Users/Denis Panjuta/source/repos/RegexT/RegexT/obj/Debug/netcoreapp2.0/RegexT.pdb
+/Users/Duncan/Projects/Resources/RegexT/RegexT/bin/Debug/netcoreapp2.0/RegexT.deps.json
+/Users/Duncan/Projects/Resources/RegexT/RegexT/bin/Debug/netcoreapp2.0/RegexT.runtimeconfig.json
+/Users/Duncan/Projects/Resources/RegexT/RegexT/bin/Debug/netcoreapp2.0/RegexT.runtimeconfig.dev.json
+/Users/Duncan/Projects/Resources/RegexT/RegexT/bin/Debug/netcoreapp2.0/RegexT.dll
+/Users/Duncan/Projects/Resources/RegexT/RegexT/bin/Debug/netcoreapp2.0/RegexT.pdb
+/Users/Duncan/Projects/Resources/RegexT/RegexT/obj/Debug/netcoreapp2.0/RegexT.csprojAssemblyReference.cache
+/Users/Duncan/Projects/Resources/RegexT/RegexT/obj/Debug/netcoreapp2.0/RegexT.AssemblyInfoInputs.cache
+/Users/Duncan/Projects/Resources/RegexT/RegexT/obj/Debug/netcoreapp2.0/RegexT.AssemblyInfo.cs
+/Users/Duncan/Projects/Resources/RegexT/RegexT/obj/Debug/netcoreapp2.0/RegexT.dll
+/Users/Duncan/Projects/Resources/RegexT/RegexT/obj/Debug/netcoreapp2.0/RegexT.pdb
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Resources\RegexT\RegexT\bin\Debug\netcoreapp2.0\RegexT.deps.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Resources\RegexT\RegexT\bin\Debug\netcoreapp2.0\RegexT.runtimeconfig.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Resources\RegexT\RegexT\bin\Debug\netcoreapp2.0\RegexT.runtimeconfig.dev.json
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Resources\RegexT\RegexT\bin\Debug\netcoreapp2.0\RegexT.dll
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Resources\RegexT\RegexT\bin\Debug\netcoreapp2.0\RegexT.pdb
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Resources\RegexT\RegexT\obj\Debug\netcoreapp2.0\RegexT.csprojAssemblyReference.cache
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Resources\RegexT\RegexT\obj\Debug\netcoreapp2.0\RegexT.AssemblyInfoInputs.cache
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Resources\RegexT\RegexT\obj\Debug\netcoreapp2.0\RegexT.AssemblyInfo.cs
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Resources\RegexT\RegexT\obj\Debug\netcoreapp2.0\RegexT.dll
+C:\Users\Duncan\Desktop\Mac Visual Studio C#\Projects\Resources\RegexT\RegexT\obj\Debug\netcoreapp2.0\RegexT.pdb
